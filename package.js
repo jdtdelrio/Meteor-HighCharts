@@ -15,6 +15,7 @@ Package.onUse(function (api) {
       // Core
       'lib/highcharts.js',
       'lib/no-data-to-display.js',
+       'lib/heatmaps.js',
       // Extra types
       'lib/highcharts-more.js',
       // Helper
